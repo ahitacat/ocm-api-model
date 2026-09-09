@@ -2,6 +2,10 @@
 
 This document describes the relevant changes between releases of the API model.
 
+## 0.0.467 Sep 09 2026
+- feat(arohcp): Embed full ClusterAutoscaler in cluster instead of link (ARO-28376)
+- chore: Update OWNERS to extend approvals on ARO and ROSA. Removed reviewers no longer on the project
+
 ## 0.0.466 Aug 20 2026
 - feat(arohcp): support specifying RHCOS marketplace image
 
